@@ -149,6 +149,11 @@
     "structure.start.formidulus.deer_cult_hideout": "Deer Cult Hideout",
     "structure.start.frostiful.chillager_outpost": "Chillager Outpost",
     "structure.start.frostiful.frostologer_castle": "Frostologer Castle",
+    "structure.start.illagerinvasion.firecaller_hut": "Firecaller Hut",
+    "structure.start.illagerinvasion.illager_fort": "Illager Fort",
+    "structure.start.illagerinvasion.illusioner_tower": "Illusioner Tower",
+    "structure.start.illagerinvasion.labyrinth": "Labyrinth",
+    "structure.start.illagerinvasion.sorcerer_hut": "Sorcerer Hut",
     "structure.start.incendium.abandoned_tower": "Abandoned Tower",
     "structure.start.incendium.forbidden_castle": "Forbidden Castle",
     "structure.start.incendium.infernal_altar": "Infernal Altar",
@@ -329,4 +334,5 @@
     "structure.start.u_desert.desert/archeology/ruin/well": "Well Ruins",
     "structure.start.u_sea.lighthouse": "Lighthouse",
     "structure.start.yeehaw_towns.western_town": "Western Town"
+
 }
