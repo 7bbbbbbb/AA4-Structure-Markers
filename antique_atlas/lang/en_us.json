@@ -405,5 +405,21 @@
     "structure.start.mvs.sunzi_gate": "Sunzi Gate",
     "structure.start.mvs.tall_house": "Tall House",
     "structure.start.mvs.warped_house": "Warped House",
-    "structure.start.supplementaries.galleon": "Galleon"
+    "structure.start.supplementaries.galleon": "Galleon",
+    "structure.start.minecolonies.amazon_camp": "Amazon Camp",
+    "structure.start.minecolonies.asian_colony": "Abandoned Colony",
+    "structure.start.minecolonies.barbarian_camp": "Barbarian Camp",
+    "structure.start.minecolonies.caledonia_colony": "Abandoned Colony",
+    "structure.start.minecolonies.colonial_colony": "Abandoned Colony",
+    "structure.start.minecolonies.desert_camp": "Mummy Camp",
+    "structure.start.minecolonies.desertoasis_colony": "Abandoned Colony",
+    "structure.start.minecolonies.incan_colony": "Abandoned Colony",
+    "structure.start.minecolonies.lostmesacity_colony": "Abandoned Colony",
+    "structure.start.minecolonies.medieval_birch_colony": "Abandoned Colony",
+    "structure.start.minecolonies.medieval_dark_oak_colony": "Abandoned Colony",
+    "structure.start.minecolonies.medieval_oak_colony": "Abandoned Colony",
+    "structure.start.minecolonies.medieval_spruce_colony": "Abandoned Colony",
+    "structure.start.minecolonies.ship": "Hostile Ship",
+    "structure.start.minecolonies.shire_colony": "Abandoned Colony",
+    "structure.start.minecolonies.warpednetherlands_colony": "Abandoned Colony"
 }
