@@ -445,5 +445,14 @@
     "structure.start.mebahelcreaturesdwarven.end_dwarven_observatory": "End Dwarven Observatory",
     "structure.start.mebahelcreaturesdwarven.raldbthar": "Raldbthar",
     "structure.start.eternal_starlight.cursed_garden": "Cursed Garden",
-    "structure.start.eternal_starlight.golem_forge": "Golem Forge"
+    "structure.start.eternal_starlight.golem_forge": "Golem Forge",
+    "structure.start.mowziesmobs.frostmaw_spawn": "Frostmaw Spawn",
+    "structure.start.mowziesmobs.monastery": "Monastery",
+    "structure.start.mowziesmobs.wrought_chamber": "Wrought Chamber",
+    "structure.start.mowziesmobs.umvuthana_grove": "Umvuthana Grove",
+    "structure.start.block_factorys_bosses.dragon_tower": "Dragon Tower",
+    "structure.start.block_factorys_bosses.kraken_ship": "Kraken Ship",
+    "structure.start.block_factorys_bosses.sandworm_nest": "Sandworm Nest",
+    "structure.start.block_factorys_bosses.underworld_arena": "Underworld Arena",
+    "structure.start.block_factorys_bosses.yeti_hideout": "Yeti Hideout"
 }
