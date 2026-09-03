@@ -530,5 +530,12 @@
     "structure.start.grim_kingdoms.zweiberg_taiga": "Zweiberg",
     "structure.start.epic.epic_temple": "Jungle Temple",
     "structure.start.epic.epic_temple_large": "Jungle Temple",
-    "structure.start.epic.epic_temple_ruin": "Jungle Temple"
+    "structure.start.epic.epic_temple_ruin": "Jungle Temple",
+    "structure.start.aquamirae.pirate_outpost": "Pirate Outpost",
+    "structure.start.aquamirae.pirate_shelter": "Pirate Shelter",
+    "structure.start.aquamirae.pirate_ship": "Pirate Ship",
+    "structure.start.immersive_pillagers.camp": "Illager Camp",
+    "structure.start.immersive_pillagers.desert_lab": "Desert Laboratory",
+    "structure.start.immersive_pillagers.lab": "Abandoned Laboratory",
+    "structure.start.immersive_pillagers.snow_lab": "Snowy Laboratory"
 }
